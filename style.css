@@ -1,0 +1,39 @@
+body{
+	background: #f0ffff;
+}
+a{
+	color: #8f00ff;
+	text-decoration: none;
+}
+h1{
+ 	margin-bottom:0;
+}
+div{
+	text-align: center;
+	color: #fff;
+}
+#container{
+	width:500px;
+}
+#header{
+	background-color:#BD33A4;
+}
+#menu{
+	background-color:#8A2BE2;
+	height:200px;
+	width:100px;
+	float:left;
+}
+#content{
+	background-color: #00DDDD;
+	height:200px;
+	width:400px;
+	float:left;
+}
+#footer{
+	background-color:#BD33A4;
+	clear:both;
+}
+#li{
+	list-style-image: url(qw.png);
+}
